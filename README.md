@@ -3,8 +3,7 @@
 ## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods
 
 
-_Stella Metran_  
-_IBM Data Science Professional_
+Mateus Oliveira
  
 
 Now that you have been equipped with the skills and the tools to use location data to explore a geographical location, 
